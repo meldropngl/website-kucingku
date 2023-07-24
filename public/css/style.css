@@ -1,0 +1,57 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding-top: 4rem;
+}
+
+footer a {
+    text-decoration: none;
+    color: #373738;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: #1d1d1f;
+}
+
+.detail {
+    min-height: 120vh;
+}
+
+a.more {
+    display: inline-block;
+    font-weight: 400;
+    padding: 3px 4px 3px 4px;
+    border-radius: 5px;
+    width: 80%;
+    color: #ffff;
+    text-decoration: none;
+}
+
+a.more:hover {
+    opacity: 0.9;
+}
+
+button.more {
+    display: inline-block;
+    font-weight: 400;
+    padding: 3px 4px 3px 4px;
+    border-radius: 5px;
+    width: 80% !important;
+    color: #ffff;
+    text-decoration: none;
+}
+
+.inputForm {
+    width: 90%;
+    height: 35px;
+    padding: 5px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+ul li {
+    list-style: none;
+}
